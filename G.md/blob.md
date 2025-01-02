@@ -3,5 +3,5 @@
 ```
 Script_Key="";
 
-loadstring(game:HttpGet("Https://api.luarmor.net/files/v3/Loaders/BhinHtffYuikNgrWsrthNoo.lua", true))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/Loaders/BhinHtffYuikNgrWsrthNoo.lua", true))()
 ```
